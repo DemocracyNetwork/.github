@@ -17,4 +17,4 @@
  - 🛡️ AntiCheat, Protección asegurada contra hackers y bots.⤶
 
 ## Survival Hardcore:
- - ⏰ *Muy pronto...*⤶
+ - ⏰ *Muy pronto...* ⤶
